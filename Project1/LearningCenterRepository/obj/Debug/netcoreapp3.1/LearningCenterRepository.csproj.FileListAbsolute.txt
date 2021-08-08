@@ -1,0 +1,12 @@
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\bin\Debug\netcoreapp3.1\LearningCenterRepository.deps.json
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\bin\Debug\netcoreapp3.1\LearningCenterRepository.dll
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\bin\Debug\netcoreapp3.1\LearningCenterRepository.pdb
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\bin\Debug\netcoreapp3.1\LearningCenterDatabase.dll
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\bin\Debug\netcoreapp3.1\LearningCenterDatabase.pdb
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\obj\Debug\netcoreapp3.1\LearningCenterRepository.csproj.AssemblyReference.cache
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\obj\Debug\netcoreapp3.1\LearningCenterRepository.AssemblyInfoInputs.cache
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\obj\Debug\netcoreapp3.1\LearningCenterRepository.AssemblyInfo.cs
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\obj\Debug\netcoreapp3.1\LearningCenterRepository.csproj.CoreCompileInputs.cache
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\obj\Debug\netcoreapp3.1\LearningCenterRepository.csproj.CopyComplete
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\obj\Debug\netcoreapp3.1\LearningCenterRepository.dll
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterRepository\obj\Debug\netcoreapp3.1\LearningCenterRepository.pdb

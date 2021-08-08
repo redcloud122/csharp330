@@ -1,0 +1,11 @@
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\bin\Debug\netcoreapp3.1\LearningCenterDatabase.deps.json
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\bin\Debug\netcoreapp3.1\LearningCenterDatabase.runtimeconfig.json
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\bin\Debug\netcoreapp3.1\LearningCenterDatabase.runtimeconfig.dev.json
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\bin\Debug\netcoreapp3.1\LearningCenterDatabase.dll
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\bin\Debug\netcoreapp3.1\LearningCenterDatabase.pdb
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\obj\Debug\netcoreapp3.1\LearningCenterDatabase.AssemblyInfoInputs.cache
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\obj\Debug\netcoreapp3.1\LearningCenterDatabase.AssemblyInfo.cs
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\obj\Debug\netcoreapp3.1\LearningCenterDatabase.csproj.CoreCompileInputs.cache
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\obj\Debug\netcoreapp3.1\LearningCenterDatabase.dll
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\obj\Debug\netcoreapp3.1\LearningCenterDatabase.pdb
+C:\Users\qa853c\Documents\1_Learning\UW\C#\330\Project1\LearningCenterDatabase\obj\Debug\netcoreapp3.1\LearningCenterDatabase.genruntimeconfig.cache

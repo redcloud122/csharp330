@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jg78Lg5zlVbBJZNAhd45KTpYAlhAn54FnC72TWVnBWIftj7GukBdj6tl5lotza4Xu6meb8FJ4Pvtm4c4LthAbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qa853c\\Documents\\1_Learning\\UW\\C#\\330\\Projects\\Project2\\UserService\\UserService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qa853c\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
